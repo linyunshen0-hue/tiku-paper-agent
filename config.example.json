@@ -1,0 +1,13 @@
+{
+  "base_url": "https://<your-host>/",
+  "appid": "wx0000000000000000",
+  "version": "19",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\n<1024bit 公钥，从目标客户端源码取>\n-----END PUBLIC KEY-----",
+  "endpoints": {
+    "refresh": "apicdzz/zzhome",
+    "points": "apicdvip/kaodianlevel",
+    "search": "apizhaos/tikutimusearch",
+    "generate": "apicdvip/timusearch",
+    "detail": "apicdvip/stdetail"
+  }
+}
